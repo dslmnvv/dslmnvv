@@ -17,31 +17,23 @@
 I am a mobile developer from Russia. I develop cross-platform applications using the Flutter framework.
 
 ### 💻 Technology stack :
- - Dart, Flutter, Js, Java, Kotlin, Swift.
+ - Dart, Js, Java, Kotlin, Swift.
+ - Flutter, Firebase, Cloud Messaging,
  - Windows, Linux, Mac OS, Android, IOS.
  - Android Studio, VS Code, Postman.
- - REST API, SOAP, Http, XML, WebSocket.
- - encryption, RSA, SSL.
+ - RESTful APIs, SOAP, Http, XML, WebSockets.
+ - Encryption, RSA, SSL.
+ - Unit testing
 ### 🎓 Now I am studying :
 - Clean architecture, Clean code
 - Design patterns
 ### 💎 Flutter Stack : 
- - Bloc, Bloc(with Provider), default state management.
+ - Bloc, Provider, Riverpod,  default state management.
  - Dio, http, udp.
  - dart_server, shelf, shelf_static, shelf_router.
  - shared_preferences, flutter_security_storage, file_picker.
  - flutter_svg.
  - logger.
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact me :
+ - e-mail: dslmnvv@gmail.com
+ - tg: https://t.me/dslmnvv
