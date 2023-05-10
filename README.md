@@ -4,8 +4,8 @@
   <a href="https://t.me/dslmnvv">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=dslmnvv&style=flat-square&color=blue" alt=""/>
 </div>
+    <img src="https://komarev.com/ghpvc/?username=dslmnvv&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **dslmnvv/dslmnvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
